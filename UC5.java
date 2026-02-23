@@ -8,9 +8,9 @@ public class UC5 {
             String.join("   ", "*     *", "*     *", "*     *", "*      "),
             String.join("   ", "*     *", "*     *", "*     *", "*      "),
             String.join("   ", "*     *", "*     *", " ***** ", " ***** "),
-            String.join("   ", "*     *", "*     *", "*",       "      *"),
-            String.join("   ", "*     *", "*     *", "*",       "      *"),
-            String.join("   ", " ***** ", " ***** ", "*",       " ***** ")
+            String.join("   ", "*     *", "*     *", "*",       "           *"),
+            String.join("   ", "*     *", "*     *", "*",       "           *"),
+            String.join("   ", " ***** ", " ***** ", "*",       "      ***** ")
         };
 
         // Print the banner using enhanced for loop
